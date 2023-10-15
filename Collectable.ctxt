@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Collectable
+comment1.params=p
+comment1.target=Collectable(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ hide()
+comment4.params=p
+comment4.target=void\ appear(int)
+comment5.params=xVar
+comment5.target=void\ setX(int)
+comment6.params=yVar
+comment6.target=void\ setY(int)
+numComments=7

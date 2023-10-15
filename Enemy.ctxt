@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=s\ e\ y
+comment1.target=Enemy(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=a
+comment3.target=void\ setMoveLAnimation(Animation)
+comment4.params=a
+comment4.target=void\ setMoveRAnimation(Animation)
+comment5.params=a
+comment5.target=void\ setAttackRAnimation(Animation)
+comment6.params=a
+comment6.target=void\ setAttackLAnimation(Animation)
+numComments=7

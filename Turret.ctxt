@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Turret
+comment1.params=gotCat
+comment1.target=Turret(Cat)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=a
+comment3.target=void\ setFireLeftAnimation(Animation)
+comment4.params=a
+comment4.target=void\ setFireRightAnimation(Animation)
+comment5.params=a
+comment5.target=void\ setIdleRightAnimation(Animation)
+comment6.params=a
+comment6.target=void\ setIdleLeftAnimation(Animation)
+comment7.params=y
+comment7.target=void\ setYPos(int)
+numComments=8

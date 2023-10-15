@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GravityActor
+comment1.params=
+comment1.target=GravityActor()
+comment10.params=
+comment10.target=boolean\ isTouchingBlockFromBottom()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=a
+comment3.target=void\ setAcceleration(double)
+comment4.params=
+comment4.target=double\ getAcceleration()
+comment5.params=j
+comment5.target=void\ setAbleToJump(boolean)
+comment6.params=
+comment6.target=boolean\ getAbleToJump()
+comment7.params=
+comment7.target=boolean\ isOnGround()
+comment8.params=
+comment8.target=boolean\ isTouchingLadder()
+comment9.params=
+comment9.target=boolean\ isBlocked()
+numComments=11

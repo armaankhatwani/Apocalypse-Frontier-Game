@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Animation
+comment1.params=f\ fileNames
+comment1.target=Animation(int,\ java.lang.String[])
+comment2.params=
+comment2.target=mayflower.MayflowerImage[]\ getFrames()
+comment3.params=
+comment3.target=int\ getFramerate()
+comment4.params=w\ h
+comment4.target=void\ resize(int,\ int)
+comment5.params=percent
+comment5.target=void\ changeTransparency(int)
+comment6.params=
+comment6.target=void\ flipHorizontally()
+comment7.params=x\ y\ w\ h
+comment7.target=void\ setBounds(int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=mayflower.MayflowerImage\ getNextFrame()
+numComments=9
